@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Bodonitown
+font link: https://www.fontsquirrel.com/fonts/Bodonitown
+font author: Manfred Klein
+font author site: http://manfred-klein.ina-mar.com/
+
+
+icon designer: Chameleon Design
+icon designer link: /Chamedesign
+        
+
+fontColor: {"gradient-0":"#5C034D","gradient-1":"#372233"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#5C034D","gradient-1":"#372233"}
+
+      
