@@ -22,6 +22,6 @@ and licensed under
 
 # Icon
   
-  #5C034D, #372233
+    #5C034D, #372233
   
   
